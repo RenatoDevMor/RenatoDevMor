@@ -37,13 +37,13 @@ Meu nome é Renato Moreira, e estou em uma jornada empolgante de aprendizado em 
 <h1 align="center"></h1>
 
 ### 📊 Estatística do GitHub
-![Renato Moreira GitHub stats](https://github-readme-stats.vercel.app/api?username=RenatoMor&theme=holi&show_icons=true&normal_rank=true)
+![Renato Moreira GitHub stats](https://github-readme-stats.vercel.app/api?username=RenatoDevMor&theme=holi&show_icons=true&normal_rank=true)
 
 ### 📈 Estatística do GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=RenatoMor&theme=holi-theme)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=RenatoDevMor&theme=holi-theme)](https://git.io/streak-stats)
 
 ### 🗄️Repositório 
-![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RenatoMor&repo=Sistema_Bancario&&theme=holi&show_icons=true&&show_owner=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)
+![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=RenatoDevMor&repo=Sistema_Bancario&&theme=holi&show_icons=true&&show_owner=true&icon_color=30A3DC&title_color=30A3DC&text_color=FFF)
 
 ### 🖥️ Linguagem
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RenatoMor&layout=compact&theme=holi&hide_title=true&show_icons=true)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RenatoDevMor&layout=compact&theme=holi&hide_title=true&show_icons=true)
